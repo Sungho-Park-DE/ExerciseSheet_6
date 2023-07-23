@@ -1,7 +1,7 @@
 ---
 title: "Exercise #6"
 subtitle: "Fortgeschrittene Statistische Software für NF - SS 2022/23"
-author: "Simon Herrmann (11908690), Sungho Park (12469817), Jonas Reinhard(12442176)"
+author: "Sungho Park (12469817), Jonas Reinhard(12442176)"
 date: "`r Sys.Date()`"
 output:
    distill::distill_article:
@@ -62,7 +62,7 @@ in a string and determines its parity.
 
 b)  To make installation easier, your R package should be in a public
     repository on GitHub. Provide the URL to the GitHub repository
-    below:`https://github.com/SimonAtLMU/exeRcise-sheet-6'
+    below:`https://github.com/.../exeRcise-sheet-6'
 
 c)  Your R package should be installable via
     `remotes::install_github()`. Before submitting your solution to this
@@ -70,7 +70,7 @@ c)  Your R package should be installable via
     from GitHub. Provide the command below:
 
 ``` r
-remotes::install_github("SimonAtLMU/exeRcise-sheet-6/simonsunghojonas")
+remotes::install_github(".../exeRcise-sheet-6/sunghojonas")
 ```
 
 ### Functionality
